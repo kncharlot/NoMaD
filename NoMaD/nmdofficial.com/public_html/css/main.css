@@ -5,8 +5,47 @@
    ========================================================================== */
 
 
+body {
+    padding-top: 50px;
+    /*padding-bottom: 0px;*/
+    background-color: white;
+    height: 100%;
+    margin-bottom: 0;
+}
+
+#nomad{
 
 
+
+}
+
+
+#tunes{
+
+background-color: whitesmoke;
+
+
+}
+#hangout{
+
+
+
+}
+#media{
+
+background-color: whitesmoke;
+
+}
+#footer{
+/*background-color: whitesmoke;*/
+
+}
+
+.footer {
+    /*height: 10px;*/
+    /*border:solid 1px blue;*/
+    /*padding-top: 10;*/
+}
 
 
 
